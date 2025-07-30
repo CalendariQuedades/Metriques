@@ -8,6 +8,6 @@
     "excluded_members": [
     ],
     "excluded_repos": [
-        Metriques
+        "Metriques"
     ]
 }
