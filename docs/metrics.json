@@ -1,0 +1,99 @@
+{
+    "avatars": {
+        "DidacLinares": "https://avatars.githubusercontent.com/u/138216841?v=4",
+        "Dofctroc": "https://avatars.githubusercontent.com/u/104981704?v=4"
+    },
+    "commits": {
+        "DidacLinares": 42,
+        "Dofctroc": 13,
+        "anonymous": 0,
+        "total": 55
+    },
+    "modified_lines": {
+        "DidacLinares": {
+            "additions": 13568,
+            "deletions": 1745,
+            "modified": 15313
+        },
+        "Dofctroc": {
+            "additions": 921,
+            "deletions": 178,
+            "modified": 1099
+        },
+        "total": {
+            "additions": 14489,
+            "deletions": 1923,
+            "modified": 16412
+        }
+    },
+    "commit_streak": {
+        "DidacLinares": 10,
+        "Dofctroc": 1
+    },
+    "commit_merges": 7,
+    "longest_commit_streak_per_user": {
+        "DidacLinares": 10,
+        "Dofctroc": 1
+    },
+    "issues": {
+        "assigned": {
+            "DidacLinares": 0,
+            "Dofctroc": 0,
+            "non_assigned": 0
+        },
+        "closed": {
+            "DidacLinares": 0,
+            "Dofctroc": 0
+        },
+        "have_pull_request": 0,
+        "assignee_is_pr_author": 0,
+        "total_closed": 0,
+        "total": 0
+    },
+    "project": {
+        "has_iterations": false,
+        "iterations": {},
+        "metrics_by_iteration": {
+            "no_iteration": {
+                "assigned_per_member": {
+                    "DidacLinares": 0,
+                    "Dofctroc": 0,
+                    "non_assigned": 0
+                },
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
+                "total_tasks": 0,
+                "total_bugs": 0,
+                "total": 0
+            },
+            "total": {
+                "assigned_per_member": {
+                    "DidacLinares": 0,
+                    "Dofctroc": 0,
+                    "non_assigned": 0
+                },
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
+                "total_tasks": 0,
+                "total_bugs": 0,
+                "total": 0
+            }
+        }
+    },
+    "pull_requests": {
+        "created": {
+            "DidacLinares": 4,
+            "Dofctroc": 3
+        },
+        "merged_per_member": {
+            "DidacLinares": 4,
+            "Dofctroc": 3
+        },
+        "merged": 7,
+        "not_merged_by_author": 0,
+        "closed": 0,
+        "total": 7
+    }
+}
