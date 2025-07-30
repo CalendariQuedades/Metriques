@@ -3,10 +3,11 @@
     "members":"org",
     "project_number": -1,
     "features":[
-        "issues","pull-requests","projects"
+        "pull-requests"
     ],
     "excluded_members": [
     ],
     "excluded_repos": [
+        Metriques
     ]
 }
