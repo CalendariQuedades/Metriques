@@ -4,16 +4,16 @@
         "Dofctroc": "https://avatars.githubusercontent.com/u/104981704?v=4"
     },
     "commits": {
-        "DidacLinares": 52,
+        "DidacLinares": 53,
         "Dofctroc": 25,
         "anonymous": 0,
-        "total": 77
+        "total": 78
     },
     "modified_lines": {
         "DidacLinares": {
-            "additions": 14142,
+            "additions": 14143,
             "deletions": 1884,
-            "modified": 16026
+            "modified": 16027
         },
         "Dofctroc": {
             "additions": 2382,
@@ -21,9 +21,9 @@
             "modified": 2798
         },
         "total": {
-            "additions": 16524,
+            "additions": 16525,
             "deletions": 2300,
-            "modified": 18824
+            "modified": 18825
         }
     },
     "commit_streak": {
@@ -77,7 +77,7 @@
                 "assigned_per_member": {
                     "DidacLinares": 6,
                     "Dofctroc": 4,
-                    "non_assigned": 0
+                    "non_assigned": 2
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -91,18 +91,18 @@
                     "DidacLinares": 6,
                     "Dofctroc": 4
                 },
-                "todo": 0,
+                "todo": 2,
                 "in_progress": 0,
                 "done": 10,
-                "total_issues": 14,
-                "total_issues_with_type": 14,
+                "total_issues": 16,
+                "total_issues_with_type": 16,
                 "total_features": 4,
-                "total_tasks": 10,
+                "total_tasks": 12,
                 "total_bugs": 0,
                 "total_features_todo": 0,
                 "total_features_in_progress": 2,
                 "total_features_done": 2,
-                "total": 14
+                "total": 16
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -170,7 +170,7 @@
                 "assigned_per_member": {
                     "DidacLinares": 0,
                     "Dofctroc": 0,
-                    "non_assigned": 2
+                    "non_assigned": 0
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -184,18 +184,18 @@
                     "DidacLinares": 0,
                     "Dofctroc": 0
                 },
-                "todo": 2,
+                "todo": 0,
                 "in_progress": 0,
                 "done": 0,
-                "total_issues": 2,
-                "total_issues_with_type": 2,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
                 "total_features": 0,
-                "total_tasks": 2,
+                "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_todo": 0,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 2
+                "total": 0
             },
             "total": {
                 "assigned_per_member": {
