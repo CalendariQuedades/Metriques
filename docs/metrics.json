@@ -42,12 +42,12 @@
             "non_assigned": 5
         },
         "closed": {
-            "DidacLinares": 5,
-            "Dofctroc": 3
+            "DidacLinares": 6,
+            "Dofctroc": 4
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 10,
+        "total_closed": 12,
         "total": 15
     },
     "project": {
@@ -84,16 +84,16 @@
                     "Dofctroc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 1,
-                    "Dofctroc": 1
+                    "DidacLinares": 0,
+                    "Dofctroc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 5,
-                    "Dofctroc": 3
+                    "DidacLinares": 6,
+                    "Dofctroc": 4
                 },
                 "todo": 0,
-                "in_progress": 2,
-                "done": 8,
+                "in_progress": 0,
+                "done": 10,
                 "total_issues": 14,
                 "total_issues_with_type": 14,
                 "total_features": 4,
@@ -208,16 +208,16 @@
                     "Dofctroc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 1,
-                    "Dofctroc": 1
+                    "DidacLinares": 0,
+                    "Dofctroc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 5,
-                    "Dofctroc": 3
+                    "DidacLinares": 6,
+                    "Dofctroc": 4
                 },
                 "todo": 0,
-                "in_progress": 2,
-                "done": 8,
+                "in_progress": 0,
+                "done": 10,
                 "total_issues": 15,
                 "total_issues_with_type": 15,
                 "total_features": 5,
