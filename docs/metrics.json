@@ -37,9 +37,9 @@
     },
     "issues": {
         "assigned": {
-            "DidacLinares": 5,
+            "DidacLinares": 6,
             "Dofctroc": 4,
-            "non_assigned": 6
+            "non_assigned": 5
         },
         "closed": {
             "DidacLinares": 5,
@@ -75,16 +75,16 @@
         "metrics_by_iteration": {
             "Iteration": {
                 "assigned_per_member": {
-                    "DidacLinares": 5,
+                    "DidacLinares": 6,
                     "Dofctroc": 4,
-                    "non_assigned": 1
+                    "non_assigned": 0
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
                     "Dofctroc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "Dofctroc": 1
                 },
                 "done_per_member": {
@@ -199,16 +199,16 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "DidacLinares": 5,
+                    "DidacLinares": 6,
                     "Dofctroc": 4,
-                    "non_assigned": 1
+                    "non_assigned": 0
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
                     "Dofctroc": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "Dofctroc": 1
                 },
                 "done_per_member": {
