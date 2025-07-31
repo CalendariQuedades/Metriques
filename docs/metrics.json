@@ -192,9 +192,9 @@
                 "total_features": 4,
                 "total_tasks": 10,
                 "total_bugs": 0,
-                "total_features_todo": 4,
+                "total_features_todo": 3,
                 "total_features_in_progress": 0,
-                "total_features_done": 0,
+                "total_features_done": 1,
                 "total": 14
             },
             "total": {
@@ -223,9 +223,9 @@
                 "total_features": 4,
                 "total_tasks": 10,
                 "total_bugs": 0,
-                "total_features_todo": 4,
+                "total_features_todo": 3,
                 "total_features_in_progress": 0,
-                "total_features_done": 0,
+                "total_features_done": 1,
                 "total": 14
             }
         }
