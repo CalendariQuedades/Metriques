@@ -37,9 +37,9 @@
     },
     "issues": {
         "assigned": {
-            "DidacLinares": 0,
+            "DidacLinares": 1,
             "Dofctroc": 0,
-            "non_assigned": 8
+            "non_assigned": 7
         },
         "closed": {
             "DidacLinares": 0,
