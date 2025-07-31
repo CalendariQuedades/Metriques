@@ -4,36 +4,36 @@
         "Dofctroc": "https://avatars.githubusercontent.com/u/104981704?v=4"
     },
     "commits": {
-        "DidacLinares": 49,
-        "Dofctroc": 21,
+        "DidacLinares": 50,
+        "Dofctroc": 22,
         "anonymous": 0,
-        "total": 70
+        "total": 72
     },
     "modified_lines": {
         "DidacLinares": {
-            "additions": 13806,
-            "deletions": 1852,
-            "modified": 15658
+            "additions": 13819,
+            "deletions": 1862,
+            "modified": 15681
         },
         "Dofctroc": {
-            "additions": 1784,
-            "deletions": 203,
-            "modified": 1987
+            "additions": 1842,
+            "deletions": 255,
+            "modified": 2097
         },
         "total": {
-            "additions": 15590,
-            "deletions": 2055,
-            "modified": 17645
+            "additions": 15661,
+            "deletions": 2117,
+            "modified": 17778
         }
     },
     "commit_streak": {
-        "DidacLinares": 10,
-        "Dofctroc": 2
+        "DidacLinares": 11,
+        "Dofctroc": 3
     },
     "commit_merges": 8,
     "longest_commit_streak_per_user": {
-        "DidacLinares": 10,
-        "Dofctroc": 2
+        "DidacLinares": 11,
+        "Dofctroc": 3
     },
     "issues": {
         "assigned": {
@@ -232,7 +232,7 @@
     },
     "pull_requests": {
         "created": {
-            "DidacLinares": 5,
+            "DidacLinares": 6,
             "Dofctroc": 3
         },
         "merged_per_member": {
@@ -242,6 +242,6 @@
         "merged": 8,
         "not_merged_by_author": 1,
         "closed": 0,
-        "total": 8
+        "total": 9
     }
 }
