@@ -30,7 +30,7 @@
         "DidacLinares": 11,
         "Dofctroc": 3
     },
-    "commit_merges": 13,
+    "commit_merges": 14,
     "longest_commit_streak_per_user": {
         "DidacLinares": 11,
         "Dofctroc": 3
@@ -232,16 +232,16 @@
     },
     "pull_requests": {
         "created": {
-            "DidacLinares": 9,
+            "DidacLinares": 10,
             "Dofctroc": 3
         },
         "merged_per_member": {
-            "DidacLinares": 8,
+            "DidacLinares": 9,
             "Dofctroc": 4
         },
-        "merged": 12,
+        "merged": 13,
         "not_merged_by_author": 1,
         "closed": 0,
-        "total": 12
+        "total": 13
     }
 }
