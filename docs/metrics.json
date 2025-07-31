@@ -43,11 +43,11 @@
         },
         "closed": {
             "DidacLinares": 2,
-            "Dofctroc": 2
+            "Dofctroc": 3
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 4,
+        "total_closed": 5,
         "total": 8
     },
     "project": {
