@@ -39,7 +39,7 @@
         "assigned": {
             "DidacLinares": 5,
             "Dofctroc": 4,
-            "non_assigned": 5
+            "non_assigned": 6
         },
         "closed": {
             "DidacLinares": 5,
@@ -48,7 +48,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 10,
-        "total": 14
+        "total": 15
     },
     "project": {
         "has_iterations": true,
@@ -75,9 +75,9 @@
         "metrics_by_iteration": {
             "Iteration": {
                 "assigned_per_member": {
-                    "DidacLinares": 0,
-                    "Dofctroc": 0,
-                    "non_assigned": 0
+                    "DidacLinares": 5,
+                    "Dofctroc": 4,
+                    "non_assigned": 1
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -85,24 +85,24 @@
                 },
                 "in_progress_per_member": {
                     "DidacLinares": 0,
-                    "Dofctroc": 0
+                    "Dofctroc": 1
                 },
                 "done_per_member": {
-                    "DidacLinares": 0,
-                    "Dofctroc": 0
+                    "DidacLinares": 5,
+                    "Dofctroc": 3
                 },
                 "todo": 0,
-                "in_progress": 0,
-                "done": 0,
-                "total_issues": 0,
-                "total_issues_with_type": 0,
-                "total_features": 0,
-                "total_tasks": 0,
+                "in_progress": 2,
+                "done": 8,
+                "total_issues": 14,
+                "total_issues_with_type": 14,
+                "total_features": 4,
+                "total_tasks": 10,
                 "total_bugs": 0,
                 "total_features_todo": 0,
-                "total_features_in_progress": 0,
-                "total_features_done": 0,
-                "total": 0
+                "total_features_in_progress": 2,
+                "total_features_done": 2,
+                "total": 14
             },
             "Iteration 2": {
                 "assigned_per_member": {
@@ -125,7 +125,7 @@
                 "todo": 0,
                 "in_progress": 0,
                 "done": 0,
-                "total_issues": 0,
+                "total_issues": 1,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
@@ -133,7 +133,7 @@
                 "total_features_todo": 0,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 0
+                "total": 1
             },
             "Iteration 3": {
                 "assigned_per_member": {
@@ -168,9 +168,9 @@
             },
             "no_iteration": {
                 "assigned_per_member": {
-                    "DidacLinares": 5,
-                    "Dofctroc": 4,
-                    "non_assigned": 1
+                    "DidacLinares": 0,
+                    "Dofctroc": 0,
+                    "non_assigned": 0
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -178,24 +178,24 @@
                 },
                 "in_progress_per_member": {
                     "DidacLinares": 0,
-                    "Dofctroc": 1
+                    "Dofctroc": 0
                 },
                 "done_per_member": {
-                    "DidacLinares": 5,
-                    "Dofctroc": 3
+                    "DidacLinares": 0,
+                    "Dofctroc": 0
                 },
                 "todo": 0,
-                "in_progress": 2,
-                "done": 8,
-                "total_issues": 14,
-                "total_issues_with_type": 14,
-                "total_features": 4,
-                "total_tasks": 10,
+                "in_progress": 0,
+                "done": 0,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
+                "total_tasks": 0,
                 "total_bugs": 0,
                 "total_features_todo": 0,
-                "total_features_in_progress": 2,
-                "total_features_done": 2,
-                "total": 14
+                "total_features_in_progress": 0,
+                "total_features_done": 0,
+                "total": 0
             },
             "total": {
                 "assigned_per_member": {
@@ -218,7 +218,7 @@
                 "todo": 0,
                 "in_progress": 2,
                 "done": 8,
-                "total_issues": 14,
+                "total_issues": 15,
                 "total_issues_with_type": 14,
                 "total_features": 4,
                 "total_tasks": 10,
@@ -226,7 +226,7 @@
                 "total_features_todo": 0,
                 "total_features_in_progress": 2,
                 "total_features_done": 2,
-                "total": 14
+                "total": 15
             }
         }
     },
