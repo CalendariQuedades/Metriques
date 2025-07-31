@@ -232,7 +232,7 @@
     },
     "pull_requests": {
         "created": {
-            "DidacLinares": 10,
+            "DidacLinares": 11,
             "Dofctroc": 3
         },
         "merged_per_member": {
@@ -242,6 +242,6 @@
         "merged": 13,
         "not_merged_by_author": 1,
         "closed": 0,
-        "total": 13
+        "total": 14
     }
 }
