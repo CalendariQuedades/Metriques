@@ -38,16 +38,16 @@
     "issues": {
         "assigned": {
             "DidacLinares": 1,
-            "Dofctroc": 2,
-            "non_assigned": 5
+            "Dofctroc": 3,
+            "non_assigned": 4
         },
         "closed": {
-            "DidacLinares": 0,
-            "Dofctroc": 0
+            "DidacLinares": 1,
+            "Dofctroc": 1
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 0,
+        "total_closed": 2,
         "total": 8
     },
     "project": {
