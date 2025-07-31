@@ -5,9 +5,9 @@
     },
     "commits": {
         "DidacLinares": 49,
-        "Dofctroc": 24,
+        "Dofctroc": 25,
         "anonymous": 0,
-        "total": 73
+        "total": 74
     },
     "modified_lines": {
         "DidacLinares": {
@@ -16,14 +16,14 @@
             "modified": 15795
         },
         "Dofctroc": {
-            "additions": 2241,
-            "deletions": 361,
-            "modified": 2602
+            "additions": 2382,
+            "deletions": 416,
+            "modified": 2798
         },
         "total": {
-            "additions": 16163,
-            "deletions": 2234,
-            "modified": 18397
+            "additions": 16304,
+            "deletions": 2289,
+            "modified": 18593
         }
     },
     "commit_streak": {
