@@ -38,8 +38,8 @@
     "issues": {
         "assigned": {
             "DidacLinares": 1,
-            "Dofctroc": 0,
-            "non_assigned": 7
+            "Dofctroc": 1,
+            "non_assigned": 6
         },
         "closed": {
             "DidacLinares": 0,
