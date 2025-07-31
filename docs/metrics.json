@@ -4,16 +4,16 @@
         "Dofctroc": "https://avatars.githubusercontent.com/u/104981704?v=4"
     },
     "commits": {
-        "DidacLinares": 49,
+        "DidacLinares": 50,
         "Dofctroc": 25,
         "anonymous": 0,
-        "total": 74
+        "total": 75
     },
     "modified_lines": {
         "DidacLinares": {
-            "additions": 13922,
-            "deletions": 1873,
-            "modified": 15795
+            "additions": 14065,
+            "deletions": 1879,
+            "modified": 15944
         },
         "Dofctroc": {
             "additions": 2382,
@@ -21,9 +21,9 @@
             "modified": 2798
         },
         "total": {
-            "additions": 16304,
-            "deletions": 2289,
-            "modified": 18593
+            "additions": 16447,
+            "deletions": 2295,
+            "modified": 18742
         }
     },
     "commit_streak": {
