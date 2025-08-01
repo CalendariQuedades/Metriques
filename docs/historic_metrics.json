@@ -484,5 +484,248 @@
             "closed": 0,
             "total": 8
         }
+    },
+    "2025-07-31": {
+        "commits": {
+            "DidacLinares": 53,
+            "Dofctroc": 25,
+            "anonymous": 0,
+            "total": 78
+        },
+        "modified_lines": {
+            "DidacLinares": {
+                "additions": 14143,
+                "deletions": 1884,
+                "modified": 16027
+            },
+            "Dofctroc": {
+                "additions": 2382,
+                "deletions": 416,
+                "modified": 2798
+            },
+            "total": {
+                "additions": 16525,
+                "deletions": 2300,
+                "modified": 18825
+            }
+        },
+        "commit_streak": {
+            "DidacLinares": 11,
+            "Dofctroc": 3
+        },
+        "commit_merges": 14,
+        "longest_commit_streak_per_user": {
+            "DidacLinares": 11,
+            "Dofctroc": 3
+        },
+        "issues": {
+            "assigned": {
+                "DidacLinares": 6,
+                "Dofctroc": 4,
+                "non_assigned": 7
+            },
+            "closed": {
+                "DidacLinares": 6,
+                "Dofctroc": 4
+            },
+            "have_pull_request": 0,
+            "assignee_is_pr_author": 0,
+            "total_closed": 12,
+            "total": 17
+        },
+        "project": {
+            "has_iterations": true,
+            "iterations": {
+                "Iteration": {
+                    "title": "Iteration",
+                    "startDate": "2025-07-30",
+                    "endDate": "2025-08-12",
+                    "duration": 14
+                },
+                "Iteration 2": {
+                    "title": "Iteration 2",
+                    "startDate": "2025-08-13",
+                    "endDate": "2025-08-26",
+                    "duration": 14
+                },
+                "Iteration 3": {
+                    "title": "Iteration 3",
+                    "startDate": "2025-08-27",
+                    "endDate": "2025-09-09",
+                    "duration": 14
+                }
+            },
+            "metrics_by_iteration": {
+                "Iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 6,
+                        "Dofctroc": 4,
+                        "non_assigned": 2
+                    },
+                    "todo_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 6,
+                        "Dofctroc": 4
+                    },
+                    "todo": 2,
+                    "in_progress": 0,
+                    "done": 10,
+                    "total_issues": 16,
+                    "total_issues_with_type": 16,
+                    "total_features": 4,
+                    "total_tasks": 12,
+                    "total_bugs": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 2,
+                    "total_features_done": 2,
+                    "total": 16
+                },
+                "Iteration 2": {
+                    "assigned_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0,
+                        "non_assigned": 0
+                    },
+                    "todo_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "todo": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "total_issues": 1,
+                    "total_issues_with_type": 1,
+                    "total_features": 1,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total_features_todo": 1,
+                    "total_features_in_progress": 0,
+                    "total_features_done": 0,
+                    "total": 1
+                },
+                "Iteration 3": {
+                    "assigned_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0,
+                        "non_assigned": 0
+                    },
+                    "todo_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "todo": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_done": 0,
+                    "total": 0
+                },
+                "no_iteration": {
+                    "assigned_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0,
+                        "non_assigned": 0
+                    },
+                    "todo_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "todo": 0,
+                    "in_progress": 0,
+                    "done": 0,
+                    "total_issues": 0,
+                    "total_issues_with_type": 0,
+                    "total_features": 0,
+                    "total_tasks": 0,
+                    "total_bugs": 0,
+                    "total_features_todo": 0,
+                    "total_features_in_progress": 0,
+                    "total_features_done": 0,
+                    "total": 0
+                },
+                "total": {
+                    "assigned_per_member": {
+                        "DidacLinares": 6,
+                        "Dofctroc": 4,
+                        "non_assigned": 2
+                    },
+                    "todo_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "in_progress_per_member": {
+                        "DidacLinares": 0,
+                        "Dofctroc": 0
+                    },
+                    "done_per_member": {
+                        "DidacLinares": 6,
+                        "Dofctroc": 4
+                    },
+                    "todo": 2,
+                    "in_progress": 0,
+                    "done": 10,
+                    "total_issues": 17,
+                    "total_issues_with_type": 17,
+                    "total_features": 5,
+                    "total_tasks": 12,
+                    "total_bugs": 0,
+                    "total_features_todo": 1,
+                    "total_features_in_progress": 2,
+                    "total_features_done": 2,
+                    "total": 17
+                }
+            }
+        },
+        "pull_requests": {
+            "created": {
+                "DidacLinares": 11,
+                "Dofctroc": 3
+            },
+            "merged_per_member": {
+                "DidacLinares": 9,
+                "Dofctroc": 4
+            },
+            "merged": 13,
+            "not_merged_by_author": 1,
+            "closed": 0,
+            "total": 14
+        }
     }
 }
